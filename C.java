@@ -1,3 +1,3 @@
 public Class c(){
-    int c =30;
+    int c =100;
 }
